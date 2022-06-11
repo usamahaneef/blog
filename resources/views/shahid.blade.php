@@ -14,5 +14,12 @@
         <input type="text">
         <input type="text">
     </form>
+    <form action="">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+    </form>
 </body>
 </html>
